@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Mickey Mouse",
+    "movie": "Fantasia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Mickey_Mouse.png"
+  },
+  {
+    "id": 2,
+    "name": "Simba",
+    "movie": "The Lion King",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/6/6e/Profile_-_Simba.png"
+  },
+  {
+    "id": 3,
+    "name": "Elsa",
+    "movie": "Frozen",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3e/Elsa_Disney.png"
+  },
+  {
+    "id": 4,
+    "name": "Woody",
+    "movie": "Toy Story",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/7/7e/Woody_Render.png"
+  },
+  {
+    "id": 5,
+    "name": "Buzz Lightyear",
+    "movie": "Toy Story",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2e/Buzz_Lightyear_Render.png"
+  },
+  {
+    "id": 6,
+    "name": "Shrek",
+    "movie": "Shrek",
+    "imageUrl": "https://static.wikia.nocookie.net/shrek/images/6/6e/Shrek_%28character%29.png"
+  },
+  {
+    "id": 7,
+    "name": "Donkey",
+    "movie": "Shrek",
+    "imageUrl": "https://static.wikia.nocookie.net/shrek/images/6/6c/Donkey.png"
+  },
+  {
+    "id": 8,
+    "name": "Fiona",
+    "movie": "Shrek",
+    "imageUrl": "https://static.wikia.nocookie.net/shrek/images/2/2d/Princess_Fiona.png"
+  },
+  {
+    "id": 9,
+    "name": "SpongeBob SquarePants",
+    "movie": "The SpongeBob SquarePants Movie",
+    "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/0/0b/SpongeBob_SquarePants_character.svg"
+  },
+  {
+    "id": 10,
+    "name": "Patrick Star",
+    "movie": "The SpongeBob SquarePants Movie",
+    "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/7/7e/Patrick_Star.svg"
+  },
+  {
+    "id": 11,
+    "name": "Dory",
+    "movie": "Finding Nemo",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2d/Dory.png"
+  },
+  {
+    "id": 12,
+    "name": "Nemo",
+    "movie": "Finding Nemo",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/7/7b/Nemo.png"
+  },
+  {
+    "id": 13,
+    "name": "Marlin",
+    "movie": "Finding Nemo",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2a/Marlin.png"
+  },
+  {
+    "id": 14,
+    "name": "Gru",
+    "movie": "Despicable Me",
+    "imageUrl": "https://static.wikia.nocookie.net/villains/images/7/7c/Gru.png"
+  },
+  {
+    "id": 15,
+    "name": "Minion",
+    "movie": "Despicable Me",
+    "imageUrl": "https://static.wikia.nocookie.net/despicableme/images/6/6e/Minion.png"
+  },
+  {
+    "id": 16,
+    "name": "Po",
+    "movie": "Kung Fu Panda",
+    "imageUrl": "https://static.wikia.nocookie.net/kungfupanda/images/2/2e/Po.png"
+  },
+  {
+    "id": 17,
+    "name": "Tigress",
+    "movie": "Kung Fu Panda",
+    "imageUrl": "https://static.wikia.nocookie.net/kungfupanda/images/2/2d/Tigress.png"
+  },
+  {
+    "id": 18,
+    "name": "Alex",
+    "movie": "Madagascar",
+    "imageUrl": "https://static.wikia.nocookie.net/madagascar/images/2/2e/Alex.png"
+  },
+  {
+    "id": 19,
+    "name": "Marty",
+    "movie": "Madagascar",
+    "imageUrl": "https://static.wikia.nocookie.net/madagascar/images/7/7e/Marty.png"
+  },
+  {
+    "id": 20,
+    "name": "Gloria",
+    "movie": "Madagascar",
+    "imageUrl": "https://static.wikia.nocookie.net/madagascar/images/2/2d/Gloria.png"
+  },
+  {
+    "id": 21,
+    "name": "Melman",
+    "movie": "Madagascar",
+    "imageUrl": "https://static.wikia.nocookie.net/madagascar/images/2/2d/Melman.png"
+  },
+  {
+    "id": 22,
+    "name": "Lightning McQueen",
+    "movie": "Cars",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/7/7e/Lightning_McQueen.png"
+  },
+  {
+    "id": 23,
+    "name": "Mater",
+    "movie": "Cars",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2e/Mater.png"
+  },
+  {
+    "id": 24,
+    "name": "Remy",
+    "movie": "Ratatouille",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2e/Remy.png"
+  },
+  {
+    "id": 25,
+    "name": "Emile",
+    "movie": "Ratatouille",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2e/Emile.png"
+  },
+  {
+    "id": 26,
+    "name": "Wall-E",
+    "movie": "Wall-E",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2e/WALL-E.png"
+  },
+  {
+    "id": 27,
+    "name": "Eve",
+    "movie": "Wall-E",
+    "imageUrl": "https://static.wikia.nocookie.net/pixar/images/2/2e/EVE.png"
+  },
+  {
+    "id": 28,
+    "name": "Rapunzel",
+    "movie": "Tangled",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Rapunzel_Disney.png"
+  },
+  {
+    "id": 29,
+    "name": "Pascal",
+    "movie": "Tangled",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Pascal_Disney.png"
+  },
+  {
+    "id": 30,
+    "name": "Moana",
+    "movie": "Moana",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Moana_Disney.png"
+  },
+  {
+    "id": 31,
+    "name": "Maui",
+    "movie": "Moana",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Maui_Disney.png"
+  },
+  {
+    "id": 32,
+    "name": "Judy Hopps",
+    "movie": "Zootopia",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Judy_Hopps.png"
+  },
+  {
+    "id": 33,
+    "name": "Nick Wilde",
+    "movie": "Zootopia",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Nick_Wilde.png"
+  },
+  {
+    "id": 34,
+    "name": "Baymax",
+    "movie": "Big Hero 6",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Baymax.png"
+  },
+  {
+    "id": 35,
+    "name": "Hiro Hamada",
+    "movie": "Big Hero 6",
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2e/Hiro_Hamada.png"
+  }
+] 
